@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # MCQ Maker using ReactJS
 
-This mcq maker app is build using react js.
+This is an mcq maker app, which is made using ReactJS
